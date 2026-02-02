@@ -178,7 +178,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
 
 def main() -> int:
     args = build_arg_parser().parse_args()
-    api_key = "5e743fc3fc8596ab940e7b6bde6c6c93"
+    api_key = "258e498f9b24b7a220cd32f8f76d5016"
 
 
     client = OpenWeatherClient(api_key=api_key)
