@@ -12,3 +12,4 @@ MENTOR: NEELA SANTOSH
 
 This project demonstrates how to integrate an external API to fetch real-time data, process the response, and visualize it effectively. It focuses on handling API requests, parsing JSON data, and converting raw data into meaningful insights using visual representations like charts and graphs. The project helps in understanding real-world API usage and the importance of data visualization in analysis.
 
+<img width="2800" height="1600" alt="Image" src="https://github.com/user-attachments/assets/75b82528-f74c-4feb-9c8d-bcab20d31e78" />
